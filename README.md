@@ -1,5 +1,7 @@
-YouTube Video to MP3 Downloader
+YouTube Video to MP3 Downloader:
+
 This is a Python application that allows users to download YouTube videos as MP3 files. The program uses Selenium to automate browser interactions and convert YouTube videos to MP3 using an online service. The user interface is built with Tkinter for simplicity and ease of use.
+
 
 Features:
 Search YouTube Videos: Search for YouTube videos by name.
